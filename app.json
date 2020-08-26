@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "version": "1.0.0",
+    "name": "react-native-school-quize",
+    "slug": "react-native-school-quize",
+    "sdkVersion": "36.0.0",
+    "android": {
+      "package": "",
+      "versionCode": 1,
+      "icon": "./assets/images/favicon.png"
+    },
+    "description": "SchoolTestApp, Perpose of this app is to help in building a small simple react native app."
+  }
+}
